@@ -5,8 +5,13 @@ public class Solution {
 
     public static void main(String[] args) {
   
-      System.out.println("5");
+    //Arrival array must contain one negative, one zero, and one positive
+        
+      //Lecture Count
+      System.out.println("5")
+      //Student/Threshold
       System.out.println("4 3");
+      //Arrival times
       System.out.println("-1 0 4 2");
       System.out.println("5 2");
       System.out.println("0 -1 2 1 4");
